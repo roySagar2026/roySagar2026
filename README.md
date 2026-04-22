@@ -35,7 +35,7 @@ speed directly influence outcomes.
 
 ## ⚙️ Tech Stack
 **Languages:** C++, Python  
-**Libraries:** NumPy, Pandas, Matplotlib  
+**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn  
 **Core Areas:** Algorithms, Systems Programming, Performance Optimization (learning)
 
 ---
