@@ -3,7 +3,7 @@
 # Hi, I'm Roy 👋
 
 ### Computer Science Undergraduate  
-Focused on **C++ Systems Programming**,  
+Focused on **C++ systems programming**,  
 algorithmic problem solving, and performance-critical software systems.
 
 <br>
@@ -86,28 +86,6 @@ speed directly influence outcomes.
 
 Aspiring to work on performance-critical infrastructure and quantitative  
 trading systems as a **Quantitative Developer / Low-Latency Engineer**.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 💻 Competitive Programming
-
-<div align="center">
-
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=github_dark" />
-
-</div>
 
 ---
 
